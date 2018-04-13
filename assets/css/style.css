@@ -40,3 +40,7 @@ body {
 #submit {
     margin: 20px 0;
 }
+
+#time {
+    text-align: center;
+}
