@@ -1,0 +1,41 @@
+body {
+    /*background-image: url('https://hpmedia.bloomsbury.com/rep/g/page-background%20-%20product.png');*/
+}
+
+#trivia1 {
+    text-align: center;
+    background-color: lightgray;
+    color: blue;
+    padding: 20px 0 20px 0;
+    font-size: 2em;
+    margin-bottom: 20px;
+    
+}
+
+.container {
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.footer {
+    background-color: lightgray;
+    color: blue;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.headin1 {
+    font-size: 1.5em;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#submit {
+    margin: 20px 0;
+}
